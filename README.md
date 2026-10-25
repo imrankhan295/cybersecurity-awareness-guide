@@ -36,7 +36,7 @@ AI assistance (Claude) was used to help draft and structure the content. I revie
 
 ## Explanatory video
 
-Video link: **PASTE YOUR VIDEO LINK HERE**
+Video link: https://drive.google.com/file/d/1ZhqKUTLRr8AOijE2auk1MvYxNO5Maqjo/view?usp=sharing
 
 ## Usage
 
